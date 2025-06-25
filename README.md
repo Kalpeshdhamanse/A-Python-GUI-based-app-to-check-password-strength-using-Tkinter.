@@ -1,0 +1,1 @@
+# A-Python-GUI-based-app-to-check-password-strength-using-Tkinter.

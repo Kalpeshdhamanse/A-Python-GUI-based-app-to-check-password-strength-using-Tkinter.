@@ -57,4 +57,4 @@ python3 password_checker.py
 | ![](screenshots/Screenshot_2025-06-23_12_54_58.png) | ![](screenshots/Screenshot_2025-06-23_12_55_01.png) |  ![](screenshots/Screenshot_2025-06-23_12_55_19.png) |
 
 
-✅ Built by **Kalpesh Dhamanse** —  [GitHub](https://github.com/Kalpeshdhamanse/A-Python-GUI-based-app-to-check-password-strength-using-Tkinter)
+✅ Built by **Kalpesh Dhamanse** —  [GitHub](https://github.com/Kalpeshdhamanse/A-Python-GUI-based-app-to-check-password-strength-using-Tkinter.)
